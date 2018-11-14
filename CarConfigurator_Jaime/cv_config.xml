@@ -1,0 +1,12 @@
+<basicConfig>
+	<car_configuration_path>src/LectorXML/</car_configuration_path>
+	<car_configuration_file_name>cars_config.xml</car_configuration_file_name>
+	<employee_list>Jaime,Victor,Marc</employee_list>  <!--lista de nombres de empleados separados por , -->
+	<employee_password>password,password,password</employee_password>  <!--lista de contraseñas de empleados separados por , -->
+	<specifications_file_path>/src/main/Main.java</specifications_file_path>
+	<version>0.1</version>
+	<descompte>12</descompte>>
+	<language>es,en,ca</language>
+	<language_default>es</language_default>
+	<postfix_language_file_name>_cv.language</postfix_language_file_name>
+</basicConfig>

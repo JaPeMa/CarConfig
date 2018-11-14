@@ -1,0 +1,7 @@
+Datos Temporales
+Jaime
+[DATOS CLIENTE] e,e,e,e,e@e.e,Mujer,Fri Nov 16 00:00:00 CET 2018
+[MODELO COCHE] 0001
+[SUBMODELO] 1002 - SEATalhambra - motor eléctrico puro, capaz de transformar la energía eléctrica en energía mecánica por medio de los campos magnéticos que genera, sin necesidad de explosiones ni combustiones propias de los motores gasolina y diésel
+[ACCESORIOS] AutoRadio 
+[PRECIO FINAL] 27499
